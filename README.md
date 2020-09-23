@@ -1,3 +1,23 @@
+# Hello, kind stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<br />
+<br />
+<br />
+
+I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
+
+<br />
+<br />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosTagkoulis&theme=Vue" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements"https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python"https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python/>
+
+<br />
+<br />
+<br />
+
 ### Tools and Tech:
 
 ![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
@@ -37,3 +57,6 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 [2]: https://www.linkedin.com/in/dimitrios-tagkoulis/
+
+
+## <em>Stay Curious!</em>
