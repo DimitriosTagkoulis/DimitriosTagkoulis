@@ -48,7 +48,7 @@ I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2].
+You can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
