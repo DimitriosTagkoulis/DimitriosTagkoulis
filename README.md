@@ -1,3 +1,27 @@
+### Tools and Tech:
+
+![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLitle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-NoSql-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-IBM-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+
+
+
+
 
 
 <!-- Actual text -->
