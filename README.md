@@ -10,9 +10,19 @@ I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
 <br />
 <br />
 
+### Some of my work:
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/Google-Analytics-and-Python)
+
+<br />
+<br />
+
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosTagkoulis&theme=Vue" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements"https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python"https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements"https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements /> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python"https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python />
 
 <br />
 <br />
