@@ -15,7 +15,8 @@ I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
 ### Some of my work:
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimitriosTagkoulis&theme=Vue" /> <br /> [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/Google-Analytics-and-Python) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/Google-Analytics-and-Python) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements) 
+
 
 <br />
 <br />
