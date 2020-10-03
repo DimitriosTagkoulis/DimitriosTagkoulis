@@ -36,7 +36,7 @@ I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLitle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-NoSql-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
