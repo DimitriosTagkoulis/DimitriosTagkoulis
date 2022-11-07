@@ -9,7 +9,7 @@ I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
 Thank you for visiting.
 <br />
 
-## From accounting to Digital and then Data Science. My story so far:
+## From Accounting to Digital and then Data Science. My story so far:
 
 I am an Accounting and Finance graduate whose pasion for tech lead to a bumpy carrer path. After I graduated I landed a job as an auditor and decided to purse an MSc in E-Business and Digital Marketing to dive a litle deeper in the digital landscape. 
 
