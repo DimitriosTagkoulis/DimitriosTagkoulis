@@ -6,52 +6,98 @@
 <br />
 <br />
 
-I am Dimitris, a data enthousiast living in Thessaloniki, Greece.
+I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
 
 <br />
 <br />
 <br />
 
-### Some of my work:
+### From accounting to Digital and then Data Science. My story so far:
 
+I am an Accounting and Finance graduate whose pasion for tech lead to a bumpy carrer path. After I graduated I landed a job as an auditor and decided to purse an MSc in E-Business and Digital Marketing to dive a litle deeper in the digital landscape. 
+
+While studying the more technical areas of Digital Marketing (like performance, market research and analytics) and the applications of Data Science methods in e-Business I realised that, that was my calling. I was constantly studying analytics and all things data that I could get my hands on. After concluding the MSc, the next steps for both my professional and academic carrers were obvious: Land a Developer Job and a second Msc focusing on Data Science thus leading me to Veltio's Demand Forecasting team and a return to University of Macedonia for the MSc in Business Analytics and Data Science.
+
+Currently I am a Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation accross the firm and for clients from multiple industries.
+
+### Some of my work on Github:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=XAI_Linked_Statistical_Data)](https://github.com/DimitriosTagkoulis/XAI_Linked_Statistical_Datas) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=AirBnB_Price_Prediction)](https://github.com/DimitriosTagkoulis/AirBnB_Price_Prediction) 
 
-
-
-
 <br />
 <br />
-
-
 
 ### Tools and Tech:
+<br />
+#### Development:
+![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VsCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DEV-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=PyCharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-RStudio-informational?style=flat&logo=RStudio&logoColor=white&color=2bbc8a)
+<br />
+<br />
+
+#### Scripting:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
+
+<br />
+<br />
+
+#### Machine Learning Development:
+![](https://img.shields.io/badge/ML-Scikit Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
+
+#### Machine Learning Operations:
+
+<br />
+<br />
+
+![](https://img.shields.io/badge/ML-MLflow-informational?style=flat&logo=MLflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOPS-Apache Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOPS-Ray-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOPS-Apache Spark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOPS-Weights & Biases-informational?style=flat&logo=WeightsandBiases&logoColor=white&color=2bbc8a)
+
+<br />
+<br />
+
+#### Databases:
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLitle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-GraphQL-informational?style=flat&logo=GraphQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=white&color=2bbc8a)
+
+<br />
+<br />
+
+#### Cloud Computing:
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-IBM-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a)
+
+<br />
+<br />
+
+#### Data Visualization:
 ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Viz-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 
+<br />
+<br />
 
+#### Power Suite:
+![](https://img.shields.io/badge/RPA-Power Automate-informational?style=flat&logo=Power-Automate&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DEV-Power Apps-informational?style=flat&logo=Power-Apps&logoColor=white&color=2bbc8a)
 
-
+<br />
+<br />
 
 
 <!-- Actual text -->
