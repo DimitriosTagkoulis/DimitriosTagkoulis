@@ -64,7 +64,7 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 
 <!-- Actual text -->
-### Thank you for visiting. You can also find me on [![LinkedIn][2.2]][2].
+### Thank you for visiting, you can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
