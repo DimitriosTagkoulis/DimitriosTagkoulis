@@ -11,11 +11,12 @@
 
 ## From Accounting to Digital and then Data Science. My story so far:
 
-I am an Accounting and Finance graduate whose pasion for tech lead to a bumpy carrer path. After I graduated I landed a job as an auditor and decided to purse an MSc in E-Business and Digital Marketing to dive a litle deeper in the digital landscape. 
+I am an Accounting and Finance graduate whose passion for tech lead to a bumpy career path. After I graduated, I landed a job as an auditor and decided to pursue an MSc in E-Business and Digital Marketing to dive a little deeper in the digital landscape. 
 
-While studying the more technical areas of Digital Marketing (like performance, market research and analytics) and the applications of Data Science methods in e-Business I realised that, that was my calling. I was constantly studying analytics and all things data that I could get my hands on. After concluding the MSc, the next steps for both my professional and academic carrers were obvious: Land a Developer Job and a second Msc focusing on Data Science thus leading me to Veltio's Demand Forecasting team and a return to University of Macedonia for the MSc in Business Analytics and Data Science.
+While studying the more technical areas of Digital Marketing (like performance, market research and analytics) and the applications of Data Science methods in e-Business I realized that that was my calling. I was constantly studying analytics and all things data that I could get my hands on. After concluding the MSc, the next steps for both my professional and academic careers were obvious: Land a Developer Job and a second MSc focusing on Data Science thus leading me to Veltio's Demand Forecasting team and a return to University of Macedonia for the MSc in Business Analytics and Data Science.
 
-Currently I am a Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation accross the firm and for clients from multiple industries.
+Currently I am a Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation across the firm and for clients from multiple industries.
+
 
 ## Some of my work on Github:
 
