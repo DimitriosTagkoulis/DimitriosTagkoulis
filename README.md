@@ -1,6 +1,6 @@
 <img src=https://s27389.pcdn.co/wp-content/uploads/2018/11/data-era-1013x440.jpeg />
 
-# Hello, kind stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="zigzag">
+# Hello, kind stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <br />
 <br />
