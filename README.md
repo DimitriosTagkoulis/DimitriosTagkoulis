@@ -32,35 +32,35 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 ## Tools and Tech:
 
-![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoCohitelor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VsCode&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/DEV-Git-informational?style=flat&logo=Git&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoCohitelor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VsCode&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DEV-Git-informational?style=flat&logo=Git&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/MLOPS-MLflow-informational?style=flat&logo=MLflow&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/MLOPS-Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/MLOPS-Ray-informational?style=flat&logo=Ray&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/MLOPS-Spark-informational?style=flat&logo=Apache-Spark&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/MLOPS-Weights&Biases-informational?style=flat&logo=WeightsandBiases&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/MLOPS-MLflow-informational?style=flat&logo=MLflow&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/MLOPS-Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/MLOPS-Ray-informational?style=flat&logo=Ray&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/MLOPS-Spark-informational?style=flat&logo=Apache-Spark&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/MLOPS-Weights&Biases-informational?style=flat&logo=WeightsandBiases&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=Amazon-AWS&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google-Cloud&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=Amazon-AWS&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google-Cloud&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
-![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=ff6e96&color=6272a4)
-![](https://img.shields.io/badge/Viz-PowerBI-informational?style=flat&logo=PowerBI&logoColor=ff6e96&color=6272a4)
+![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/Viz-PowerBI-informational?style=flat&logo=PowerBI&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
 
 <!-- Actual text -->
@@ -69,7 +69,7 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 <!-- Icons -->
 
 
-[2.2]: https://img.shields.io/badge/Linkedin-informational?style=flat&logo=LinkedIn (LinkedIn icon)
+[2.2]: https://img.shields.io/badge/Linkedin-informational?style=flat&logo=LinkedIn&logoColor=ff6e96&color=6272a4&labelColor=282a36 (LinkedIn icon)
 
 <!-- Links to your social media accounts -->
 
