@@ -67,7 +67,7 @@ You can also find me on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: [(https://img.shields.io/badge/Linkedin-informational?style=flat&logo=LinkedIn) (LinkedIn icon)]
 
 <!-- Links to your social media accounts -->
 
