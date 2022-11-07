@@ -19,9 +19,9 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 ## Some of my work on Github:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=TelcoCustomerChurn)](https://github.com/DimitriosTagkoulis/TelcoCustomerChurn) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=TelcoCustomerChurn)](https://github.com/DimitriosTagkoulis/TelcoCustomerChurn)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=XAI_Linked_Statistical_Data)](https://github.com/DimitriosTagkoulis/XAI_Linked_Statistical_Data)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=AirBnB_Price_Prediction)](https://github.com/DimitriosTagkoulis/AirBnB_Price_Prediction)
 
