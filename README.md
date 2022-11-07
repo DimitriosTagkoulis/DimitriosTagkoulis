@@ -48,7 +48,7 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 ![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/ML-MLflow-informational?style=flat&logo=MLflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MLOPS-MLflow-informational?style=flat&logo=MLflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MLOPS-Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MLOPS-Ray-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MLOPS-Spark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=2bbc8a)
