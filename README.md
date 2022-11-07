@@ -6,7 +6,7 @@
 <br />
 
 ### I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
-### Thank you for visiting.
+
 <br />
 
 ## From Accounting to Digital and then Data Science. My story so far:
@@ -63,8 +63,7 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 
 <!-- Actual text -->
-
-You can also find me on [![LinkedIn][2.2]][2].
+### Thank you for visiting. You can also find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
