@@ -31,9 +31,13 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 <br />
 #### Development:
 <br />
+
 ![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VsCode&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DEV-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+
 
 <br />
 <br />
@@ -94,8 +98,8 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 #### Power Suite:
 <br />
-![](https://img.shields.io/badge/RPA-Power Automate-informational?style=flat&logo=Power-Automate&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DEV-Power Apps-informational?style=flat&logo=Power-Apps&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/RPA-Power-Automate-informational?style=flat&logo=Power-Automate&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DEV-Power-Apps-informational?style=flat&logo=Power-Apps&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
