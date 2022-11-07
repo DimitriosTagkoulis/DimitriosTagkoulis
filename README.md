@@ -9,7 +9,7 @@ I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
 Thank you for visiting.
 <br />
 
-### From accounting to Digital and then Data Science. My story so far:
+## From accounting to Digital and then Data Science. My story so far:
 
 I am an Accounting and Finance graduate whose pasion for tech lead to a bumpy carrer path. After I graduated I landed a job as an auditor and decided to purse an MSc in E-Business and Digital Marketing to dive a litle deeper in the digital landscape. 
 
@@ -17,7 +17,7 @@ While studying the more technical areas of Digital Marketing (like performance, 
 
 Currently I am a Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation accross the firm and for clients from multiple industries.
 
-### Some of my work on Github:
+## Some of my work on Github:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python)](https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements) 
@@ -27,10 +27,9 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 <br />
 <br />
 
-### Tools and Tech:
-<br />
-#### Development:
-<br />
+## Tools and Tech:
+
+### Development:
 
 ![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 
@@ -42,8 +41,8 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 <br />
 <br />
 
-#### Scripting:
-<br />
+### Scripting:
+
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)
@@ -51,54 +50,68 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 <br />
 <br />
 
-#### Machine Learning Development:
-<br />
+### Machine Learning Development:
+
 ![](https://img.shields.io/badge/ML-Scikit Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/ML-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=2bbc8a)
 
-#### Machine Learning Operations:
-<br />
+### Machine Learning Operations:
+
 ![](https://img.shields.io/badge/ML-MLflow-informational?style=flat&logo=MLflow&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/MLOPS-Apache Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/MLOPS-Ray-informational?style=flat&logo=Ray&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/MLOPS-Apache Spark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/MLOPS-Weights & Biases-informational?style=flat&logo=WeightsandBiases&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
 
-#### Databases:
+### Databases:
 <br />
 ![](https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=SQLitle&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DB-MySql-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DB-Neo4j-informational?style=flat&logo=Neo4j&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
 
-#### Cloud Computing:
+### Cloud Computing:
 <br />
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=Google-Cloud&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
 
-#### Data Visualization:
+### Data Visualization:
 <br />
 ![](https://img.shields.io/badge/Viz-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Viz-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
 
 <br />
 <br />
 
-#### Power Suite:
+### Power Suite:
 <br />
 ![](https://img.shields.io/badge/RPA-Power-Automate-informational?style=flat&logo=Power-Automate&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/DEV-Power-Apps-informational?style=flat&logo=Power-Apps&logoColor=white&color=2bbc8a)
 
 <br />
