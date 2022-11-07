@@ -5,8 +5,8 @@
 <br />
 <br />
 
-I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
-Thank you for visiting.
+### I am Dimitris, a Data Scientist living in Thessaloniki, Greece.
+### Thank you for visiting.
 <br />
 
 ## From Accounting to Digital and then Data Science. My story so far:
