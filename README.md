@@ -1,4 +1,4 @@
-<img src=https://s27389.pcdn.co/wp-content/uploads/2018/11/data-era-1013x440.jpeg / width="130px" / height="1300px">
+<img src=https://s27389.pcdn.co/wp-content/uploads/2018/11/data-era-1013x440.jpeg width="1300px" height="200px">
 
 # Hello, kind stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
