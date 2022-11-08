@@ -32,8 +32,8 @@ Currently I am a Data Scientist for KPMG Greece, managing a team of data profess
 
 ## Tools and Tech:
 
-![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoCohitelor=ff6e96&color=6272a4&labelColor=282a36)
-![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VsCode&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DEV-Jupyter-informational?style=flat&logo=Jupyter&logoColor=ff6e96&color=6272a4&labelColor=282a36)
+![](https://img.shields.io/badge/DEV-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 ![](https://img.shields.io/badge/DEV-Git-informational?style=flat&logo=Git&logoColor=ff6e96&color=6272a4&labelColor=282a36)
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=ff6e96&color=6272a4&labelColor=282a36)
