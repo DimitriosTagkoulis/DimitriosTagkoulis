@@ -9,13 +9,14 @@
 
 ## From Accounting to Digital and then Data Science. My story so far:
 
-I am an Accounting and Finance graduate whose passion for tech lead to a bumpy career path. After I graduated, I landed a job as an auditor and decided to pursue an MSc in E-Business and Digital Marketing to dive a little deeper in the digital landscape. 
+I am an Accounting and Finance graduate whose passion for tech led to a bumpy career path…
+After I graduated, I landed a job as an auditor and decided to pursue an MSc in E-Business and Digital Marketing to dive a little deeper in the digital landscape. 
 
-While studying the more technical areas of Digital Marketing (like performance, market research and analytics) and the applications of Data Science methods in e-Business I realized that this was my calling. I was constantly studying analytics and all things data that I could get my hands on. After concluding the MSc, the next steps for both my professional and academic careers were obvious: Land a Developer Job and a second MSc focusing on Data Science thus leading me to Veltio's Demand Forecasting team and a return to University of Macedonia for the MSc in Business Analytics and Data Science. 
+While studying the more technical areas of Digital Marketing (like performance, market research and analytics) and the applications of Data Science methods in e-Business I realized that this was my calling. I was constantly studying analytics and all things data that I could get my hands on. With the completion of my MSc, the next steps were obvious: a) land a developer job and b) start a MSc in Data Science. That led me to Veltio’s Demand Forecasting team and to University of Macedonia, for the MSc in Business Analytics and Data Science.
 
-After finishing my second MSc I was tasked with creating an analytics practice as a Senior Data Scientist for KPMG Greecemanaging a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation across the firm and for clients from multiple industries.
+After finishing my second MSc I was assigned with to create an analytics practice as a Senior Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation across the firm and for clients from multiple industries.
 
-Currently I am a Senior Data Engineer for Accenture Greece, were I maintain and enhance ETL pipelines for banking and finance industry clients. 
+Currently I am a Senior Data Engineer for Accenture Greece, where I maintain and enhance ETL pipelines for banking and finance industry clients. 
 
 
 ## Some of my work on Github:
