@@ -16,7 +16,7 @@ While studying the more technical areas of Digital Marketing (like performance, 
 
 After finishing my second MSc I was assigned with to create an analytics practice as a Senior Data Scientist for KPMG Greece, managing a team of data professionals and developing analytics, automation and forecasting solutions to support Digital Transformation across the firm and for clients from multiple industries.
 
-Currently I am a Senior Data Engineer for Accenture Greece, where I maintain and enhance ETL pipelines for banking and finance industry clients. 
+Currently I am a Senior Data Engineer for Accenture Greece, where I maintain and enhance ETL pipelines for banking and finance industry clients and I lead a team of five other Data Engineers which is responsible for the whole reporting process of a Major Greek Bank's Data Warehouse. 
 
 
 ## Some of my work on Github:
