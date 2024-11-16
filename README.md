@@ -21,6 +21,7 @@ Currently I am a Senior Data Engineer for Accenture Greece, where I maintain and
 
 ## Some of my work on Github:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=California-Housing-Price-Prediction&theme=dracula)](https://github.com/DimitriosTagkoulis/California-Housing-Price-Prediction)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Google-Analytics-and-Python&theme=dracula)](https://github.com/DimitriosTagkoulis/Google-Analytics-and-Python)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=Clustering-Stock-Movements&theme=dracula)](https://github.com/DimitriosTagkoulis/Clustering-Stock-Movements)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DimitriosTagkoulis&repo=TelcoCustomerChurn&theme=dracula)](https://github.com/DimitriosTagkoulis/TelcoCustomerChurn)
